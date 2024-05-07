@@ -67,7 +67,7 @@
 
 - launch the navigation file along with simulation file.
 
-    > `roslaunch mir_navigation_customized mir_navigation_customized.launch`
+      `roslaunch mir_navigation_customized mir_navigation_customized.launch`
 
     > Note: Now, I have used fake localization for the navigation. We can able to change the localization to the amcl localization through uncomment amcl on the `mir_navigation_customized.launch` file and comment out fake localization.
 
